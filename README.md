@@ -14,7 +14,7 @@
 <p align='center'>
     <!-- GitHub Stats -->
     <a href="https://github.com/dlatth/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=dlatth&show_icons=true&theme=transparent&text_color=000000&title_color=transparent&icon_color=F5BCBA&border_color=F4E7FB" width=45%/>
+        <img src="https://github-readme-stats.vercel.app/api?username=dlatth&show_icons=true&theme=transparent&text_color=transparent&title_color=transparent&icon_color=F5BCBA&border_color=F4E7FB" width=45%/>
     </a>
     <!-- Top Languages -->
     <a href="https://github.com/dlatth/github-readme-languages"">
@@ -26,6 +26,7 @@
     <a href="https://github.com/dlatth/github-readme-snake">
       <img src="https://github.com/dlatth/dlatth/blob/output/github-snake.svg" width="94%">
       <br>
+    </a>
 </p>
 
 <p align='center'>
@@ -43,12 +44,13 @@
 
 <p align='center'> 
   <br><br><br>
-  <a href="README.md">English</a> 
+  <a href="https://github.com/dlatth/dlatth/blob/main/README.md">English</a> 
   |
-  <a href="/docs/README_kr.md">한국어</a> 
+  <a href="https://github.com/dlatth/dlatth/blob/main/docs/README_kr.md">한국어</a> 
   |
-  <a href="/docs/README_ja.md">日本語</a> 
+  <a href="https://github.com/dlatth/dlatth/blob/main/docs/README_ja.md">日本語</a> 
 </p>
+
 
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F4E7FB,10:F3DCDC,30:F5BCBA,55:E3AADD,70:C8A8E9,100:C3C7F3&height=40&section=footer&text=&fontSize=0" width="100%"/>
