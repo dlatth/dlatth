@@ -17,8 +17,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=dlatth&show_icons=true&theme=transparent&text_color=transparent&title_color=transparent&icon_color=F5BCBA&border_color=F4E7FB" width=45%/>
     </a>
     <!-- Top Languages -->
-    <a href="https://github.com/dlatth/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlatth&layout=compact&theme=transparent&title_color=transparent&text_color=transparent&border_color=F4E7FB" width=45%/>
+    <a href="https://github.com/dlatth/github-stats">
+      <img src="https://raw.githubusercontent.com/dlatth/github-stats-transparent/output/generated/languages.svg" width=33% />
     </a>
     <a href="https://github.com/dlatth/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=dlatth&theme=react-dark&bg_color=transparent&hide_border=true&line=F4E7FB&color=C3C7F3" width=94%/>
