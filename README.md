@@ -17,7 +17,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=dlatth&show_icons=true&theme=transparent&text_color=transparent&title_color=transparent&icon_color=F5BCBA&border_color=F4E7FB" width=45%/>
     </a>
     <!-- Top Languages -->
-    <a href="https://github.com/dlatth/github-stats">
+    <a href="https://github.com/dlatth/github-stats-transparent">
       <img src="https://raw.githubusercontent.com/dlatth/github-stats-transparent/output/generated/languages.svg" width=33% />
     </a>
     <a href="https://github.com/dlatth/github-readme-activity-graph">
