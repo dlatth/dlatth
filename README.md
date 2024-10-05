@@ -17,10 +17,10 @@
     <a href="https://github.com/dlatth/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=dlatth&show_icons=true&theme=transparent&text_color=transparent&title_color=transparent&icon_color=F5BCBA&border_color=F4E7FB" width=45%/>
     </a>
-    <!-- Top Languages -->
+    <!-- Top Languages 
     <a href="https://github.com/dlatth/github-stats-transparent">
       <img src="https://raw.githubusercontent.com/dlatth/github-stats-transparent/output/generated/languages.svg" width=33% />
-    </a>
+    </a> -->
     <a href="https://github.com/dlatth/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=dlatth&theme=react-dark&bg_color=transparent&hide_border=true&line=87CEFA&color=CCCCFF" width=94%/>
     </a>
