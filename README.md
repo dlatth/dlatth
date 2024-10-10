@@ -17,6 +17,9 @@
     <a href="https://github.com/dlatth/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=dlatth&show_icons=true&theme=transparent&text_color=transparent&title_color=transparent&icon_color=F5BCBA&border_color=F4E7FB" width=45%/>
     </a>
+    <a href="https://github.com/dlatth/github-stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dlatth&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=48% />
+    </a>
     <!-- Top Languages 
     <a href="https://github.com/dlatth/github-stats-transparent">
       <img src="https://raw.githubusercontent.com/dlatth/github-stats-transparent/output/generated/languages.svg" width=33% />
