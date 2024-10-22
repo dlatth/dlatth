@@ -7,7 +7,7 @@
 
 <br>
 
-### 👩‍💻 Frontend Engineer
+### 👩‍💻 Front-end Engineer
 
 - **User-centric UI/UX design** to enhance the user experience.
 - **Seamless team communication*** to foster collaborative synergy.
