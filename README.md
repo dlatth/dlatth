@@ -5,11 +5,19 @@
 
 ## Hello, I'm Soyeon 🫶
 
-<br><br>
+<br>
+
+### 👩‍💻 Frontend Engineer
+
+- **User-centric UI/UX design** to enhance the user experience.
+- **Seamless team communication*** to foster collaborative synergy.
+- **Passionate technical discussions** to achieve the best outcomes.
+
+<br>
 
 ### 🖇️ Study Hub
 
-- [Study logs](https://mountain-gallimimus-97b.notion.site/Study-da830c2586fc4ca4af46a81b78c9727d?pvs=4)
+- “[My Notion space](https://mountain-gallimimus-97b.notion.site/Study-da830c2586fc4ca4af46a81b78c9727d?pvs=4) captures my journey of learning and project stories.”
 
 <br>
 
@@ -20,7 +28,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=dlatth&show_icons=true&hide_border=true&theme=transparent&text_color=transparent&title_color=transparent&icon_color=transparent&border_color=transparent" width=48%/>
     </a>
     <a href="https://github.com/dlatth/github-stats">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dlatth&layout=compact&theme=material-palenight&hide_border=true&bg_color=transparent&icon_color=transparent&text_color=transparent&title_color=transparent" width=44% />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dlatth&layout=compact&hide_border=true&theme=transparent&text_color=transparent&title_color=transparent&icon_color=transparent&border_color=transparent" width=44% />
     </a>
 </p>
 
