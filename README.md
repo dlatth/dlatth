@@ -34,6 +34,10 @@
 
 <br>
 
+### 📋 Currently Exploring・・・
+
+<br>
+
 ### 🔗 Contact & Links
 
 <p align='left'>
