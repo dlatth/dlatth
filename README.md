@@ -1,25 +1,28 @@
 <!-- capsule-render -->
+<!--
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:404040,55:A8A8A8,70:606060,100:000000&height=125&section=header&text=&fontSize=0" width="100%"/>
-</p>
+</p> 
+-->
 
-## Hello, I'm Soyeon 🫶
+## Hello, I'm Soyeon Lim🫶
 
 <br>
 
 ### 👩‍💻 Front-end Engineer
 
 - **User-centric UI/UX design** to enhance the user experience.
-- **Seamless team communication*** to foster collaborative synergy.
-- **Passionate technical discussions** to achieve the best outcomes.
+- **Seamless team communication** to foster collaborative synergy.
 
 <br>
 
+<!--
 ### 🖇️ Study Hub
 
 - “[My Notion space](https://mountain-gallimimus-97b.notion.site/Study-da830c2586fc4ca4af46a81b78c9727d?pvs=4) captures my journey of learning and project stories.”
 
 <br>
+-->
 
 ### 🗂️ GitHub Stats
 
