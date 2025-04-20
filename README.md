@@ -30,9 +30,9 @@
     <a href="https://github.com/dlatth/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=dlatth&show_icons=true&hide_border=true&theme=transparent&text_color=transparent&title_color=transparent&icon_color=transparent&border_color=transparent" width=48%/>
     </a>
-<!--     <a href="https://github.com/dlatth/github-stats">
+    <a href="https://github.com/dlatth/github-stats">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dlatth&layout=compact&hide_border=true&theme=transparent&text_color=transparent&title_color=transparent&icon_color=transparent&border_color=transparent" width=44% />
-    </a> -->
+    </a>
 </p>
 
 <br>
