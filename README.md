@@ -5,7 +5,7 @@
 </p> 
 -->
 
-## Hello, I'm Soyeon Lim🫶
+## Hello, I'm Soyeon Lim 🫶
 
 <br>
 
